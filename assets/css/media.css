@@ -1,0 +1,282 @@
+@media (min-width: 426px) and (max-width: 768px){
+
+	/* Header */
+	#menu-hamburguesa {
+		text-decoration: none;
+		color: white;
+		width: 100%;
+		padding-left: 300px;
+		
+	}
+
+	.logo a{
+		padding-left: 75px;
+	}
+
+
+	.el-hide{
+		display: none;
+	}
+
+	.nav-menu{
+		clear: both;
+		height: 300px;
+	}
+
+	.nav-menu a{
+		display: block;
+		color: white;
+		text-decoration: none;
+		font-size: 0.8em;	
+		font-weight: 200;
+		padding: 20px 60px;
+	}
+
+	/* Section soft */
+	
+	.cuadro-soft{
+		left: 60px;
+	}
+
+	/* Section the tales */
+
+
+
+	.the-tales{
+		padding: 5px 0;
+
+	}
+
+	.img-tales{
+	    width: 100%;
+	    height: 100%;
+	    overflow: hidden;
+		background-color: #0F6B87;	    
+	 } 
+	
+
+	.texto-tales{
+		background-color: #0F6B87;
+		text-align: center;
+	    width: 98%;
+	    height: 100%;
+		padding: 5px;
+
+	}
+
+	/* Section the video */
+
+	.videos{
+		display: inline-block;	
+	    padding-top: 10px;	
+	    padding-left: 10px;     
+	}
+
+	.img-videos{
+		height: 100%;		
+	}
+
+	.texto-videos{
+		background-color: #E7F5FA;
+		text-align: center;
+		width: 98%;
+		height: 100%;
+		padding: 5px;
+
+	}
+
+	.redes-col{
+		display: none;
+	}
+
+	/* Section the bunny */
+
+	.no-media{
+		display: none;
+	}
+	.bunny{
+		width: 100%;
+		height: 15%;
+	}
+
+	.the-bunny{
+		display: inline-block;
+	}
+
+	.the-bunny img{
+		margin: 0;
+		width: 24%;
+	}
+
+}
+
+
+@media (min-width: 361px) and (max-width: 425px){
+
+	/* Header */
+	#menu-hamburguesa {
+		text-decoration: none;
+		color: white;
+		width: 100%;
+		padding-left: 100px;	
+	}
+
+	.logo a{
+		padding-left: 50px;
+	}
+
+	.el-hide{
+		display: none;
+	}
+
+	.nav-menu{
+		clear: both;
+		height: 300px;
+	}
+
+	.nav-menu a{
+		display: block;
+		color: white;
+		text-decoration: none;
+		font-size: 0.8em;	
+		font-weight: 200;
+		padding: 20px 60px;
+	}
+
+	/* section soft */
+	
+	.img-soft{
+		height: 250px;
+	}
+
+
+	.cuadro-soft{
+		left: 45px;
+	}
+
+	.texto-soft h1{
+		font-size: 2.5em;
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+
+	.texto-soft p{
+		font-size: 0.8em;
+	}
+
+
+	/* section the tales */
+
+
+
+	.the-tales{
+		padding: 5px 0;
+
+	}
+
+	.img-tales{
+	    width: 100%;
+	    height: 100%;
+	    overflow: hidden;
+		background-color: #0F6B87;	    
+	 } 
+	
+
+	.texto-tales{
+		background-color: #0F6B87;
+		text-align: center;
+	    width: 97.1%;
+	    height: 100%;
+		padding: 5px;
+
+	}
+
+	/* Section the videos */
+
+	.videos{
+		display: inline-block;	
+	    padding-top: 10px;	
+	    padding-left: 10px;     
+	}
+
+	.img-videos{
+		height: 100%;		
+	}
+
+	.texto-videos{
+		background-color: #E7F5FA;
+		text-align: center;
+		width: 97.1%;
+		height: 100%;
+		padding: 5px;
+
+	}
+
+	.redes-col{
+		display: none;
+	}
+
+	/* Section the bunny */
+
+	.no-media{
+		display: none;
+	}
+
+	.no-media-2{
+		display: none;
+	}
+	.bunny{
+		width: 100%;
+		height: 15%;
+	}
+
+	.the-bunny{
+		display: inline-block;
+	}
+
+	.the-bunny img{
+		margin: 0;
+		width: 30%;
+	}
+
+}
+
+@media (min-width: 1px) and (max-width: 360px){
+
+	/* Header */
+	#menu-hamburguesa {
+		text-decoration: none;
+		color: white;
+		width: 100%;
+		padding-left: 50px;
+		
+	}
+
+	.logo a{
+		padding-left: 50px;
+	}
+
+
+	.el-hide{
+		display: none;
+	}
+
+	.nav-menu{
+		clear: both;
+		height: 300px;
+	}
+
+	.nav-menu a{
+		display: block;
+		color: white;
+		text-decoration: none;
+		font-size: 0.8em;	
+		font-weight: 200;
+		padding: 20px 60px;
+	}
+
+@media (min-width: 769px){
+	#menu-hamburguesa{
+		display: none;
+	}
+}
