@@ -248,3 +248,18 @@ input{
 	padding-top: 6px;
 	color: #0F6B87;
 }
+
+/* Section the bunny */
+.bunny{
+	width: 100%;
+	height: 16%;
+}
+
+.the-bunny{
+	padding-left: 25px;
+	display: inline-block;
+}
+
+.the-bunny img{
+	width: 160px;
+}
